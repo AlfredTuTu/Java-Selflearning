@@ -4,6 +4,6 @@
 
 
 ## Java基础
-[黑马程序员Java 0基础](https://www.bilibili.com/video/BV17F411T7Ao/?spm_id_from=333.1387.0.0&vd_source=68531bd2cd57831f2c8a25804f21ae12)
-
+[黑马程序员Java 0基础_上部](https://www.bilibili.com/video/BV17F411T7Ao/?spm_id_from=333.1387.0.0&vd_source=68531bd2cd57831f2c8a25804f21ae12)
+[黑马程序员Java 0基础_下部](https://www.bilibili.com/video/BV1yW4y1Y7Ms/?vd_source=68531bd2cd57831f2c8a25804f21ae12)
 # Java-Selflearning
