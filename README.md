@@ -1,6 +1,6 @@
 
 # Java-Path
-学习路径的规划参考：[Java后端开发学习路线](https://www.nowcoder.com/discuss/705117123261034496?sourceSSR=search), [尚硅谷Java学习路线图](https://www.atguigu.com/video/java/#java),[HackWay Java后端](https://hackway.org/docs/java/intro), [cs自学指南](https://csdiy.wiki/)
+学习路径的规划参考：[Java后端开发学习路线](https://www.nowcoder.com/discuss/705117123261034496?sourceSSR=search), [尚硅谷Java学习路线图](https://www.atguigu.com/video/java/#java), [HackWay Java后端](https://hackway.org/docs/java/intro), [cs自学指南](https://csdiy.wiki/), [黑马程序员Java学习路线图](https://www.bilibili.com/opus/494817843530680807)
 
 
 ## Java基础
